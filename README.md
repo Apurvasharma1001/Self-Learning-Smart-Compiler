@@ -46,7 +46,7 @@
 - [Overview](#-overview)
 - [Why This Project?](#-why-this-project)
 - [Key Features](#-key-features)
-- [Architecture](## 🏗️ Architecture)
+- [Architecture](#-architecture)
 - [Project Structure](#-project-structure)
 - [Tech Stack](#-tech-stack)
 - [Getting Started](#-getting-started)
