@@ -1,0 +1,12 @@
+int x;
+int y;
+x = 5;
+y = x + 3;
+if (y >= 8) {
+  x = y * 2;
+} else {
+  x = y - 1;
+}
+while (x > 0) {
+  x = x - 1;
+}
